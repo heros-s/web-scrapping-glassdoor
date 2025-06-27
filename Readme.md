@@ -82,9 +82,14 @@ Antes de executar o script, siga estas etapas para configurá-lo corretamente:
 2.  **Verifique a `Cargos.xlsx`:**
     * Certifique-se de que sua planilha de cargos esteja na **pasta anterior** a do executável.
 
-3.  **Execute o Arquivo `.bat`:**
+3.  **Edite o Arquivo `.bat`:**
     * Na pasta onde você tem o executável, haverá um arquivo chamado **`1 - Média de salários Paraná.bat`**.
-    * **Dê um duplo clique** neste arquivo `.bat`.
+    * Clique com o botão direito no arquivo `1 - Média de salários Paraná.bat` e selecione "Editar" (ou "Edit"). Ele será aberto em um editor de texto (como o Bloco de Notas).
+    * O `.bat` tem uma linha como `"C:\Users\heros.dinao\AppData\Local\Microsoft\WindowsApps\python.exe"`
+    * Altere este caminho (`"C:\Users\{seu.usuario}\AppData\Local\Microsoft\WindowsApps\python.exe"`) 
+    * Altere o segundo diretório para onde você realmente colocou a pasta do script (`1 - Web Scraping Glassdoor`).
+    * Salve o arquivo `.bat` (`Ctrl + S`).
+    * Dê um duplo clique neste arquivo `.bat`.
     * Uma janela do Prompt de Comando (console) se abrirá, e o Google Chrome será iniciado e automatizado.
 
 4.  **Monitore a Execução:**
