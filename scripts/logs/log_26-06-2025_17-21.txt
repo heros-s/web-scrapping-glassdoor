@@ -1,0 +1,29 @@
+--- INÍCIO DA EXECUÇÃO DO SCRIPT DE COLETA DE SALÁRIOS ---
+Horário de Início: 26/06/2025 17:21:50
+Iniciando navegador Chrome...
+ERRO: Não foi possível iniciar o navegador Chrome. Verifique o ChromeDriver e as opções. Erro: Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.120 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6bd756f65+76917]
+	GetHandleVerifier [0x0x7ff6bd756fc0+77008]
+	(No symbol) [0x0x7ff6bd509dea]
+	(No symbol) [0x0x7ff6bd54e1df]
+	(No symbol) [0x0x7ff6bd54d22b]
+	(No symbol) [0x0x7ff6bd546e2a]
+	(No symbol) [0x0x7ff6bd542675]
+	(No symbol) [0x0x7ff6bd595e9e]
+	(No symbol) [0x0x7ff6bd595630]
+	(No symbol) [0x0x7ff6bd588243]
+	(No symbol) [0x0x7ff6bd551431]
+	(No symbol) [0x0x7ff6bd5521c3]
+	GetHandleVerifier [0x0x7ff6bda2d29d+3051437]
+	GetHandleVerifier [0x0x7ff6bda278f3+3028483]
+	GetHandleVerifier [0x0x7ff6bda4588d+3151261]
+	GetHandleVerifier [0x0x7ff6bd77182e+185662]
+	GetHandleVerifier [0x0x7ff6bd7796ef+218111]
+	GetHandleVerifier [0x0x7ff6bd75fae4+112628]
+	GetHandleVerifier [0x0x7ff6bd75fc99+113065]
+	GetHandleVerifier [0x0x7ff6bd746c68+10616]
+	BaseThreadInitThunk [0x0x7ffa2fe0e8d7+23]
+	RtlUserThreadStart [0x0x7ffa3121c34c+44]
+

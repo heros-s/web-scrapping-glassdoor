@@ -1,0 +1,3712 @@
+--- INÍCIO DA EXECUÇÃO DO SCRIPT DE COLETA DE SALÁRIOS ---
+Horário de Início: 19/06/2025 19:45:40
+Iniciando navegador Chrome...
+Navegador Chrome iniciado com sucesso.
+Número de cargos a serem pesquisados: 234
+
+--- Pesquisando salário para: Account Manager II ---
+Não foi possível obter o salário para 'Account Manager II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Account Manager III ---
+Não foi possível obter o salário para 'Account Manager III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Accounts Receivable Analyst  III ---
+Não foi possível obter o salário para 'Accounts Receivable Analyst  III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Agile Coach I ---
+Não foi possível obter o salário para 'Agile Coach I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista Administrativo Financeiro Jr. ---
+Salário médio encontrado para Salários de Analista Administrativo Financeiro (Curitiba): 3000
+
+--- Pesquisando salário para: Analista Administrativo Financeiro SR ---
+Salário médio encontrado para Salários de Analista Administrativo Financeiro (Curitiba): 3000
+
+--- Pesquisando salário para: Analista Comercial JR ---
+Salário médio encontrado para Salários de Analista Comercial Jr (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Atendimento Digital JR ---
+Não foi possível obter o salário para 'Analista de Atendimento Digital JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Atendimento JR ---
+Salário médio encontrado para Salários de Analista De Atendimento Jr (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de Atendimento SR ---
+Não foi possível obter o salário para 'Analista de Atendimento SR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Cobrança I ---
+Salário médio encontrado para Salários de Analista De Cobranca I (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de Comunicação SR ---
+Salário médio encontrado para Salários de Analista De Comunicacao Sr (Curitiba): 6000
+
+--- Pesquisando salário para: Analista de Contas a Pagar I ---
+Não foi possível obter o salário para 'Analista de Contas a Pagar I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Contas a Pagar II ---
+Salário médio encontrado para Salários de Analista De Contas A Pagar (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Contas a Receber I ---
+Não foi possível obter o salário para 'Analista de Contas a Receber I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Control Desk II ---
+Salário médio encontrado para Salários de Analista De Control Desk (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de Control Desk III ---
+Salário médio encontrado para Salários de Analista De Control Desk (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de Curadoria I ---
+Salário médio encontrado para Salários de Analista De Curadoria (Curitiba): 5000
+
+--- Pesquisando salário para: Analista de DevOps II ---
+Salário médio encontrado para Salários de Analista De Devops (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Experiência do Cliente ---
+Não foi possível obter o salário para 'Analista de Experiência do Cliente'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Gestão de Talentos I ---
+Salário médio encontrado para Salários de Analista De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Gestão de Talentos II ---
+Não foi possível obter o salário para 'Analista de Gestão de Talentos II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Gestão de Talentos III ---
+Salário médio encontrado para Salários de Analista De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Gestão De Talentos JR ---
+Salário médio encontrado para Salários de Analista De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Gestão de Talentos PL ---
+Não foi possível obter o salário para 'Analista de Gestão de Talentos PL'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Gestão de Talentos SR ---
+Salário médio encontrado para Salários de Analista De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Implantação e Operação II ---
+Não foi possível obter o salário para 'Analista de Implantação e Operação II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Implantação II ---
+Não foi possível obter o salário para 'Analista de Implantação II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Implantação JR ---
+Não foi possível obter o salário para 'Analista de Implantação JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Informação II ---
+Não foi possível obter o salário para 'Analista de Informação II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Informação JR ---
+Não foi possível obter o salário para 'Analista de Informação JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Infraestrutura de TI I ---
+Não foi possível obter o salário para 'Analista de Infraestrutura de TI I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Infraestrutura de TI II ---
+Não foi possível obter o salário para 'Analista de Infraestrutura de TI II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Infraestrutura de TI III ---
+Não foi possível obter o salário para 'Analista de Infraestrutura de TI III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Infraestrutura JR ---
+Salário médio encontrado para Salários de Analista De Infraestrutura Jr (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Integração II ---
+Não foi possível obter o salário para 'Analista de Integração II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Integração III ---
+Salário médio encontrado para Salários de Analista De Integracao (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Inteligência Corporativa III ---
+Salário médio encontrado para Salários de Analista De Inteligencia (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Inteligência de Dados II ---
+Não foi possível obter o salário para 'Analista de Inteligência de Dados II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Inteligência de Dados III ---
+Salário médio encontrado para Salários de Analista De Inteligencia De Dados (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Marketing Digital SR ---
+Salário médio encontrado para Salários de Analista De Marketing Digital (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Marketing I ---
+Salário médio encontrado para Salários de Analista De Marketing I (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Marketing PL ---
+Não foi possível obter o salário para 'Analista de Marketing PL'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Marketing SR ---
+Salário médio encontrado para Salários de Analista De Marketing Sr (Curitiba): 6000
+
+--- Pesquisando salário para: Analista de Negócios III ---
+Salário médio encontrado para Salários de Analista De Negocios Iii (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Operação I ---
+Não foi possível obter o salário para 'Analista de Operação I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Operação III ---
+Salário médio encontrado para Salários de Analista De Operacao (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Planejamento I ---
+Salário médio encontrado para Salários de Analista De Planejamento I (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Planejamento II ---
+Salário médio encontrado para Salários de Analista De Planejamento Ii (Curitiba): 7000
+
+--- Pesquisando salário para: Analista de Planejamento III ---
+Não foi possível obter o salário para 'Analista de Planejamento III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Processos II ---
+Salário médio encontrado para Salários de Analista De Processos Ii (Curitiba): 6000
+
+--- Pesquisando salário para: Analista de Projetos II ---
+Salário médio encontrado para Salários de Analista De Projetos Ii (Curitiba): 6000
+
+--- Pesquisando salário para: Analista de Projetos III ---
+Salário médio encontrado para Salários de Analista De Projetos Iii (Curitiba): 4000
+
+--- Pesquisando salário para: Analista de Relacionamento JR ---
+Salário médio encontrado para Salários de Analista De Relacionamento Jr (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de Relacionamento SR ---
+Não foi possível obter o salário para 'Analista de Relacionamento SR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Risco ---
+Salário médio encontrado para Salários de Analista De Risco (Curitiba): 2000
+
+--- Pesquisando salário para: Analista de SDR ---
+Não foi possível obter o salário para 'Analista de SDR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Segurança da Informação II ---
+Não foi possível obter o salário para 'Analista de Segurança da Informação II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Sistemas Especialista ---
+Salário médio encontrado para Salários de Analista De Sistemas Especialista (Curitiba): 8000
+
+--- Pesquisando salário para: Analista de Sistemas JR ---
+Não foi possível obter o salário para 'Analista de Sistemas JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Sistemas PL ---
+Não foi possível obter o salário para 'Analista de Sistemas PL'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Sistemas SR ---
+Salário médio encontrado para Salários de Analista De Sistemas Sr (Curitiba): 10000
+
+--- Pesquisando salário para: Analista de Sucesso do Cliente I ---
+Não foi possível obter o salário para 'Analista de Sucesso do Cliente I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Sucesso do Cliente III ---
+Não foi possível obter o salário para 'Analista de Sucesso do Cliente III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Suporte de TI I ---
+Salário médio encontrado para Salários de Analista De Suporte (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Suporte de TI II ---
+Salário médio encontrado para Salários de Analista De Suporte (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Sustentação I ---
+Salário médio encontrado para Salários de Analista De Sustentacao (Curitiba): 3000
+
+--- Pesquisando salário para: Analista de Telecom III ---
+Não foi possível obter o salário para 'Analista de Telecom III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista de Treinamento Técnico e Qualidade ---
+Salário médio encontrado para Salários de Analista De Treinamento Tecnico E Qualidade (Curitiba): 2000
+
+--- Pesquisando salário para: Analista Financeiro I ---
+Salário médio encontrado para Salários de Analista Financeiro I (Curitiba): 4000
+
+--- Pesquisando salário para: Analista Financeiro Jr. ---
+Não foi possível obter o salário para 'Analista Financeiro Jr.'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Analista Sucesso Cliente III ---
+Não foi possível obter o salário para 'Analista Sucesso Cliente III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Aprendiz ---
+Salário médio encontrado para Salários de Aprendiz (Curitiba): 900
+
+--- Pesquisando salário para: Arquiteto de Sistemas III ---
+Salário médio encontrado para Salários de Arquiteto De Sistemas Iii (Brasil): 10000
+
+--- Pesquisando salário para: Assistente Administrativo Financeiro ---
+Salário médio encontrado para Salários de Assistente Administrativo Financeiro (Curitiba): 2000
+
+--- Pesquisando salário para: Assistente de Infraestrutura TI ---
+Não foi possível obter o salário para 'Assistente de Infraestrutura TI'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Assistente de Marketing ---
+Salário médio encontrado para Salários de Assistente De Marketing (Curitiba): 2000
+
+--- Pesquisando salário para: Assistente de Serviços Gerais ---
+Não foi possível obter o salário para 'Assistente de Serviços Gerais'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Assistente Financeiro ---
+Salário médio encontrado para Salários de Assistente Financeiro (Curitiba): 2000
+
+--- Pesquisando salário para: Automation Developer III ---
+Não foi possível obter o salário para 'Automation Developer III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Back End Developer II ---
+Não foi possível obter o salário para 'Back End Developer II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Back End Developer III ---
+Salário médio encontrado para Salários de Back End Developer (Curitiba): 5000
+
+--- Pesquisando salário para: Billing Strategy Planner Manager ---
+Não foi possível obter o salário para 'Billing Strategy Planner Manager'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Business Analyst II ---
+Não foi possível obter o salário para 'Business Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Chief Commercial Officer ---
+Não foi possível obter o salário para 'Chief Commercial Officer'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultor Comercial e Alianças Estratégicas ---
+Não foi possível obter o salário para 'Consultor Comercial e Alianças Estratégicas'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultor de Controladoria e Compras ---
+Não foi possível obter o salário para 'Consultor de Controladoria e Compras'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultor de Infra e Segurança ---
+Salário médio encontrado para Salários de Seguranca (Curitiba): 2000
+
+--- Pesquisando salário para: Consultor de Inteligência de Dados ---
+Não foi possível obter o salário para 'Consultor de Inteligência de Dados'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultor de Operacional I ---
+Não foi possível obter o salário para 'Consultor de Operacional I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultor de Operações de Produto ---
+Não foi possível obter o salário para 'Consultor de Operações de Produto'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Consultora de Relacionamento ---
+Não foi possível obter o salário para 'Consultora de Relacionamento'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Control Desk Analyst II ---
+Não foi possível obter o salário para 'Control Desk Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Control Desk Analyst III ---
+Não foi possível obter o salário para 'Control Desk Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Coordenador Administrativo Financeiro ---
+Salário médio encontrado para Salários de Coordenador Administrativo Financeiro (Curitiba): 6000
+
+--- Pesquisando salário para: Coordenador de BI ---
+Salário médio encontrado para Salários de Coordenador De Bi (Curitiba): 5000
+
+--- Pesquisando salário para: Coordenador de Desenvolvimento ---
+Salário médio encontrado para Salários de Coordenador De Desenvolvimento (Curitiba): 9000
+
+--- Pesquisando salário para: Coordenador de Planejamento ---
+Salário médio encontrado para Salários de Coordenador De Planejamento (Curitiba): 8000
+
+--- Pesquisando salário para: Coordenador de Suporte e Dados ---
+Salário médio encontrado para Salários de Coordenador De Suporte E Dados (Curitiba): 12000
+
+--- Pesquisando salário para: Coordenador(a) de Operações Digitais ---
+Não foi possível obter o salário para 'Coordenador(a) de Operações Digitais'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Coordenadora de Gestão de Talentos ---
+Salário médio encontrado para Salários de Coordenadora De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Coordenadora de Operação de Atendimento ---
+Não foi possível obter o salário para 'Coordenadora de Operação de Atendimento'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Coordenadora de Operações ---
+Não foi possível obter o salário para 'Coordenadora de Operações'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Curatorial Analyst I ---
+Não foi possível obter o salário para 'Curatorial Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Customer Relationship Analyst I ---
+Não foi possível obter o salário para 'Customer Relationship Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Customer Relationship Analyst II ---
+Não foi possível obter o salário para 'Customer Relationship Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Customer Success Analyst II ---
+Não foi possível obter o salário para 'Customer Success Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Customer Success Manager ---
+Salário médio encontrado para Salários de Customer Success Manager (Curitiba): 3000
+
+--- Pesquisando salário para: Cyber Security Analyst II ---
+Não foi possível obter o salário para 'Cyber Security Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Cyber Security Analyst III ---
+Não foi possível obter o salário para 'Cyber Security Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Data Analyst I ---
+Salário médio encontrado para Salários de Data Analyst I (Curitiba): 5000
+
+--- Pesquisando salário para: Data Intelligence Analyst I ---
+Não foi possível obter o salário para 'Data Intelligence Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Data Intelligence Analyst II ---
+Não foi possível obter o salário para 'Data Intelligence Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Data Intelligence Analyst III ---
+Não foi possível obter o salário para 'Data Intelligence Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Data Intelligence Supervisor III ---
+Não foi possível obter o salário para 'Data Intelligence Supervisor III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Data Intelligence Team Leader ---
+Salário médio encontrado para Salários de Team Leader (Curitiba): 5000
+
+--- Pesquisando salário para: Database Analyst II ---
+Não foi possível obter o salário para 'Database Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Database Analyst III ---
+Não foi possível obter o salário para 'Database Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Database Specialist ---
+Não foi possível obter o salário para 'Database Specialist'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: DBA II ---
+Não foi possível obter o salário para 'DBA II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: DBA III ---
+Não foi possível obter o salário para 'DBA III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Deployment and Support Manager ---
+Não foi possível obter o salário para 'Deployment and Support Manager'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Desenvolvedor Back-End I ---
+Não foi possível obter o salário para 'Desenvolvedor Back-End I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Desenvolvedor de Automação III ---
+Salário médio encontrado para Salários de Desenvolvedor De Automacao (Curitiba): 4000
+
+--- Pesquisando salário para: Desenvolvedor Full Stack II ---
+Não foi possível obter o salário para 'Desenvolvedor Full Stack II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Desenvolvedor Fullstack II ---
+Salário médio encontrado para Salários de Desenvolvedor Fullstack (Curitiba): 4000
+
+--- Pesquisando salário para: Designer Gráfico I (Telecom) ---
+Salário médio encontrado para Salários de Designer Grafico (Curitiba): 2000
+
+--- Pesquisando salário para: Designer Gráfico II ---
+Não foi possível obter o salário para 'Designer Gráfico II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Designer Gráfico II (Telecom) ---
+Salário médio encontrado para Salários de Designer Grafico (Curitiba): 2000
+
+--- Pesquisando salário para: DevOps Analyst II ---
+Salário médio encontrado para Salários de Devops Analyst Ii (Curitiba): 7000
+
+--- Pesquisando salário para: DPO e Consultor de Compliance ---
+Salário médio encontrado para Salários de Dpo (Curitiba): 12000
+
+--- Pesquisando salário para: Endomarketing ---
+Não foi possível obter o salário para 'Endomarketing'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Especialista de BI ---
+Salário médio encontrado para Salários de Especialista De Bi (Curitiba): 10000
+
+--- Pesquisando salário para: Especialista de Novos Negócios ---
+Salário médio encontrado para Salários de Especialista De Novos Negocios (Curitiba): 10000
+
+--- Pesquisando salário para: Especialista de Planejamento ---
+Não foi possível obter o salário para 'Especialista de Planejamento'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Especialista de Produto ---
+Salário médio encontrado para Salários de Especialista De Produto (Curitiba): 8000
+
+--- Pesquisando salário para: Especialista DevOps ---
+Salário médio encontrado para Salários de Especialista Devops (Curitiba): 16000
+
+--- Pesquisando salário para: Especialista Financeiro ---
+Salário médio encontrado para Salários de Especialista Financeiro (Curitiba): 8000
+
+--- Pesquisando salário para: Estagiária ---
+Salário médio encontrado para Salários de Estagiaria (Curitiba): 725
+
+--- Pesquisando salário para: Estagiário ---
+Salário médio encontrado para Salários de Estagiario (Curitiba): 1000
+
+--- Pesquisando salário para: Executivo de Contas ---
+Salário médio encontrado para Salários de Executivo De Contas (Curitiba): 4000
+
+--- Pesquisando salário para: Financial Analyst ---
+Não foi possível obter o salário para 'Financial Analyst'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Financial Analyst III ---
+Não foi possível obter o salário para 'Financial Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Full Stack Developer I ---
+Não foi possível obter o salário para 'Full Stack Developer I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Full Stack Developer II ---
+Não foi possível obter o salário para 'Full Stack Developer II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: General Services Assistant ---
+Não foi possível obter o salário para 'General Services Assistant'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Gerente Adm. Financeiro Jr. ---
+Salário médio encontrado para Salários de Gerente (Curitiba): 10000
+
+--- Pesquisando salário para: Gerente BI JR ---
+Salário médio encontrado para Salários de Gerente (Curitiba): 10000
+
+--- Pesquisando salário para: Gerente Comercial JR ---
+Não foi possível obter o salário para 'Gerente Comercial JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Gerente Comercial Regional SR ---
+Salário médio encontrado para Salários de Gerente Comercial Regional (Curitiba): 13000
+
+--- Pesquisando salário para: Gerente Comercial SR ---
+Salário médio encontrado para Salários de Gerente Comercial Sr (Curitiba): 7000
+
+--- Pesquisando salário para: Gerente de Contas I ---
+Não foi possível obter o salário para 'Gerente de Contas I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Gerente de Contas III ---
+Salário médio encontrado para Salários de Gerente De Contas Iii (Curitiba): 6000
+
+--- Pesquisando salário para: Gerente de Desenvolvimento ---
+Salário médio encontrado para Salários de Gerente De Desenvolvimento (Curitiba): 10000
+
+--- Pesquisando salário para: Gerente de Gestão de Talentos ---
+Salário médio encontrado para Salários de Gerente De Gestao De Talentos (Curitiba): 4000
+
+--- Pesquisando salário para: Gerente de Implantação e Operação ---
+Não foi possível obter o salário para 'Gerente de Implantação e Operação'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Gerente de Inteligência de Dados ---
+Salário médio encontrado para Salários de Gerente De Inteligencia De Dados (Curitiba): 4000
+
+--- Pesquisando salário para: Gerente de Produto ---
+Salário médio encontrado para Salários de Gerente De Produto (Curitiba): 8000
+
+--- Pesquisando salário para: Gerente de Projetos ---
+Salário médio encontrado para Salários de Gerente De Projetos (Curitiba): 10000
+
+--- Pesquisando salário para: Gerente de Projetos e Processos ---
+Salário médio encontrado para Salários de Gerente De Projetos E Processos (Curitiba): 12000
+
+--- Pesquisando salário para: Gerente de SMS ---
+Não foi possível obter o salário para 'Gerente de SMS'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Gerente Operacional JR ---
+Salário médio encontrado para Salários de Gerente Operacional (Curitiba): 6000
+
+--- Pesquisando salário para: Graphic Designer III ---
+Não foi possível obter o salário para 'Graphic Designer III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head Administrativo e Financeiro ---
+Não foi possível obter o salário para 'Head Administrativo e Financeiro'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head Comercial ---
+Salário médio encontrado para Salários de Head Comercial (Curitiba): 4000
+
+--- Pesquisando salário para: Head de Implantação, Operação e Relacionamento ---
+Não foi possível obter o salário para 'Head de Implantação, Operação e Relacionamento'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head de Produto e Marketing ---
+Não foi possível obter o salário para 'Head de Produto e Marketing'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head de Serviço e BI ---
+Não foi possível obter o salário para 'Head de Serviço e BI'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head de TI ---
+Não foi possível obter o salário para 'Head de TI'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Head de TI e Produto ---
+Não foi possível obter o salário para 'Head de TI e Produto'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Implementation and Sustention Analyst I ---
+Não foi possível obter o salário para 'Implementation and Sustention Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Implementation and Sustention Analyst II ---
+Não foi possível obter o salário para 'Implementation and Sustention Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Information Analyst I ---
+Não foi possível obter o salário para 'Information Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Information Analyst III ---
+Não foi possível obter o salário para 'Information Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Intern ---
+Salário médio encontrado para Salários de Intern (Curitiba): 1000
+
+--- Pesquisando salário para: IT Coordinator ---
+Salário médio encontrado para Salários de It Coordinator (Curitiba): 8000
+
+--- Pesquisando salário para: IT Infrastructure Analyst I ---
+Não foi possível obter o salário para 'IT Infrastructure Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: IT Infrastructure Analyst II ---
+Não foi possível obter o salário para 'IT Infrastructure Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: IT Infrastructure Assistant ---
+Não foi possível obter o salário para 'IT Infrastructure Assistant'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: IT Manager ---
+Salário médio encontrado para Salários de It Manager (Curitiba): 15000
+
+--- Pesquisando salário para: IT Support Analyst I ---
+Não foi possível obter o salário para 'IT Support Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: IT Support Assistant ---
+Não foi possível obter o salário para 'IT Support Assistant'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Marketing Analyst III ---
+Não foi possível obter o salário para 'Marketing Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Marketing Manager ---
+Não foi possível obter o salário para 'Marketing Manager'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: MIS Analyst III ---
+Não foi possível obter o salário para 'MIS Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: NET Developer III ---
+Não foi possível obter o salário para 'NET Developer III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: New Business Manager II ---
+Não foi possível obter o salário para 'New Business Manager II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Planning Analyst I ---
+Não foi possível obter o salário para 'Planning Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Planning Analyst II ---
+Não foi possível obter o salário para 'Planning Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Planning Analyst III ---
+Não foi possível obter o salário para 'Planning Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Planning Team Leader ---
+Não foi possível obter o salário para 'Planning Team Leader'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Product Manager ---
+Salário médio encontrado para Salários de Product Manager (Curitiba): 9000
+
+--- Pesquisando salário para: Product Owner ---
+Salário médio encontrado para Salários de Product Owner (Curitiba): 7000
+
+--- Pesquisando salário para: Product Owner I ---
+Não foi possível obter o salário para 'Product Owner I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Product Owner II ---
+Salário médio encontrado para Salários de Product Owner Ii (Curitiba): 10000
+
+--- Pesquisando salário para: Product Owner III ---
+Salário médio encontrado para Salários de Product Owner Iii (Curitiba): 8000
+
+--- Pesquisando salário para: Programador II ---
+Salário médio encontrado para Salários de Programador Ii (Curitiba): 3000
+
+--- Pesquisando salário para: Programmer ---
+Salário médio encontrado para Salários de Programmer (Curitiba): 5000
+
+--- Pesquisando salário para: Programmer I ---
+Não foi possível obter o salário para 'Programmer I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Project Analyst III ---
+Não foi possível obter o salário para 'Project Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Projects Analyst I ---
+Não foi possível obter o salário para 'Projects Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Projects Analyst II ---
+Não foi possível obter o salário para 'Projects Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Projects Analyst III ---
+Não foi possível obter o salário para 'Projects Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: QA Analyst I ---
+Não foi possível obter o salário para 'QA Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: QA Analyst III ---
+Não foi possível obter o salário para 'QA Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: RH ---
+Não foi possível obter o salário para 'RH'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: SDR SR ---
+Não foi possível obter o salário para 'SDR SR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Social Media II ---
+Não foi possível obter o salário para 'Social Media II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Squad Leader ---
+Salário médio encontrado para Salários de Squad Leader (Curitiba): 12000
+
+--- Pesquisando salário para: Superintendente de TI ---
+Salário médio encontrado para Salários de Superintendente De Ti (Curitiba): 25000
+
+--- Pesquisando salário para: Supervisor de Operações ---
+Salário médio encontrado para Salários de Supervisor De Operacoes (Curitiba): 4000
+
+--- Pesquisando salário para: Supervisor de Operações JR ---
+Salário médio encontrado para Salários de Supervisor De Operacoes (Curitiba): 4000
+
+--- Pesquisando salário para: Supervisor(a) de Marketing ---
+Não foi possível obter o salário para 'Supervisor(a) de Marketing'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Supervisora de Cobrança I ---
+Salário médio encontrado para Salários de Supervisora De Cobranca (Curitiba): 3000
+
+--- Pesquisando salário para: Supervisora de Produto JR ---
+Não foi possível obter o salário para 'Supervisora de Produto JR'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Supervisora de Produto PL ---
+Não foi possível obter o salário para 'Supervisora de Produto PL'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Sustention Analyst I ---
+Não foi possível obter o salário para 'Sustention Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Talent Management Analyst I ---
+Não foi possível obter o salário para 'Talent Management Analyst I'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Talent Management Analyst II ---
+Não foi possível obter o salário para 'Talent Management Analyst II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Talent Management Analyst III ---
+Não foi possível obter o salário para 'Talent Management Analyst III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Talent Management Assistant ---
+Salário médio encontrado para Salários de Talent Management Assistant (Curitiba): 2000
+
+--- Pesquisando salário para: Team Leader ---
+Salário médio encontrado para Salários de Team Leader (Curitiba): 5000
+
+--- Pesquisando salário para: Team Leader de Planejamento ---
+Salário médio encontrado para Salários de Team Leader De Planejamento (Curitiba): 3000
+
+--- Pesquisando salário para: Tech and Services Consultant ---
+Não foi possível obter o salário para 'Tech and Services Consultant'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Tech Leader ---
+Salário médio encontrado para Salários de Tech Leader (Curitiba): 12000
+
+--- Pesquisando salário para: Tech Leader de Inteligência de Dados ---
+Não foi possível obter o salário para 'Tech Leader de Inteligência de Dados'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Técnico de Informação II ---
+Não foi possível obter o salário para 'Técnico de Informação II'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: Training Consultant ---
+Não foi possível obter o salário para 'Training Consultant'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Pesquisando salário para: UX / UI Designer II ---
+Salário médio encontrado para Salários de Ux Ui Designer (Curitiba): 4000
+
+--- Pesquisando salário para: UX Designer ---
+Salário médio encontrado para Salários de Ux Designer (Curitiba): 4000
+
+--- Pesquisando salário para: UX Designer III ---
+Salário médio encontrado para Salários de Ux Designer Iii (Curitiba): 8000
+
+--- Pesquisando salário para: UX Writer I ---
+Salário médio encontrado para Salários de Ux Writer (Curitiba): 3000
+
+--- Pesquisando salário para: UX Writer II ---
+Salário médio encontrado para Salários de Ux Writer (Curitiba): 3000
+
+--- Pesquisando salário para: UX Writer III ---
+Não foi possível obter o salário para 'UX Writer III'. Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6b205cda5+78885]
+	GetHandleVerifier [0x0x7ff6b205ce00+78976]
+	(No symbol) [0x0x7ff6b1e19bca]
+	(No symbol) [0x0x7ff6b1e70766]
+	(No symbol) [0x0x7ff6b1e70a1c]
+	(No symbol) [0x0x7ff6b1ec4467]
+	(No symbol) [0x0x7ff6b1e98bcf]
+	(No symbol) [0x0x7ff6b1ec122f]
+	(No symbol) [0x0x7ff6b1e98963]
+	(No symbol) [0x0x7ff6b1e616b1]
+	(No symbol) [0x0x7ff6b1e62443]
+	GetHandleVerifier [0x0x7ff6b2334eed+3061101]
+	GetHandleVerifier [0x0x7ff6b232f33d+3037629]
+	GetHandleVerifier [0x0x7ff6b234e592+3165202]
+	GetHandleVerifier [0x0x7ff6b207730e+186766]
+	GetHandleVerifier [0x0x7ff6b207eb3f+217535]
+	GetHandleVerifier [0x0x7ff6b20659b4+114740]
+	GetHandleVerifier [0x0x7ff6b2065b69+115177]
+	GetHandleVerifier [0x0x7ff6b204c368+10728]
+	BaseThreadInitThunk [0x0x7ffc53d1e8d7+23]
+	RtlUserThreadStart [0x0x7ffc5513c34c+44]
+
+
+--- Salvando dados no Excel ---
+Dados adicionados e atualizados no arquivo existente: base_salarios_glassdoor.xlsx
+Dados salvos no Excel com sucesso!
+Script finalizado.
+
+--- RESUMO DA EXECUÇÃO DO SCRIPT ---
+Horário de Início: 19/06/2025 19:45:40
+Horário de Término: 19/06/2025 20:42:13
+Tempo Total de Execução: 0:56:33.362823
+Total de Cargos Pesquisados: 234
+Salários Encontrados com Sucesso: 104
+Salários Não Encontrados/Com Erro: 130
+------------------------------------
+Script concluído. Verifique o arquivo Excel e o arquivo de Log para os resultados.

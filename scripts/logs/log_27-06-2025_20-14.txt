@@ -1,0 +1,16 @@
+--- INÍCIO DA EXECUÇÃO DO SCRIPT DE COLETA DE SALÁRIOS ---
+Horário de Início: 27/06/2025 20:14:38
+Iniciando navegador Chrome...
+Navegador Chrome iniciado com sucesso.
+Número de cargos a serem pesquisados: 234
+
+--- Pesquisando salário para: Account Manager II ---
+Salário médio encontrado para Salários de Account Manager Ii (Brasil): 5000
+
+--- Pesquisando salário para: Account Manager III ---
+Salário médio encontrado para Salários de Account Manager Iii (Brasil): 216000
+
+--- Pesquisando salário para: Accounts Receivable Analyst  III ---
+Não foi possível obter o salário para 'Accounts Receivable Analyst  III'. Erro: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+
+--- Pesquisando salário para: Agile Coach I ---

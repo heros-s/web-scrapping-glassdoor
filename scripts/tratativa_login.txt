@@ -1,0 +1,15 @@
+# INSERIR ABAIXO DA LINHA 15
+
+# navegador.get("https://www.glassdoor.com.br/salaries/index.htm")
+# time.sleep(3)
+
+# botao_login = navegador.find_element(By.CSS_SELECTOR, "button[aria-label='sign in']")
+# botao_login.click()
+# time.sleep(3)
+# navegador.find_element(By.ID, "modalUserEmail").send_keys("herosdefreitas@gmail.com")
+# time.sleep(3)
+# navegador.find_element(By.CSS_SELECTOR, "button[data-test='continue-with-email-modal']").click()
+# time.sleep(3)
+# navegador.find_element(By.ID, "modalUserPassword").send_keys("Junho@2025")
+# navegador.find_element(By.ID, "modalUserPassword").submit()
+# time.sleep(10)
